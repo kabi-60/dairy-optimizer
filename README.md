@@ -49,8 +49,8 @@ A comprehensive dairy farm management system designed to optimize operations, tr
 ### Installation
 
 1. **Clone the repository**
-   \`\`\`bash
-   git clone https://github.com/Ramana2130/dairy-optimizer.git
+   \`\`\`bas
+   git clone https://github.com/kabi-60/dairy-optimizer.git
    cd dairy-optimizer
    \`\`\`
 
